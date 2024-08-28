@@ -2,7 +2,7 @@
 #MIT License
 #Copyright (c) 2021-23 Jetsonhacks
 
-JETSON_FOLDER=R35.4.1
+JETSON_FOLDER=Jetson_Linux_R35.5.0_aarch64
 LINUX_FOR_TEGRA_DIRECTORY="$JETSON_FOLDER/Linux_for_Tegra"
 
 
